@@ -13,3 +13,9 @@ see https://editorconfig.org
 ### `.gitignore`
 
 ### `.dockerignore`
+
+## Other tools
+
+## gitignore.io
+
+Here you could fill with tools you use on your project, and this website would generate a `.gitignore` file that contains settings for all those tools
